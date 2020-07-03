@@ -4,7 +4,7 @@ using System;
 
 
 // To strip content between two lines
-namespace StripToLines
+namespace RedSequoia.StripToLines
 {
     public class UI
     {
