@@ -5,7 +5,7 @@ using System.Text;
 using System;
 
 
-namespace StripToLines
+namespace RedSequoia.StripToLines
 {
     public enum MatchMode
     {
