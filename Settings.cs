@@ -5,7 +5,7 @@ using System.Text;
 using System;
 
 
-namespace RedSequoia.StripToLines
+namespace TallSequoia.StripToLines
 {
     public enum MatchMode
     {
@@ -31,7 +31,7 @@ namespace RedSequoia.StripToLines
         }
 
 
-        // Parse the arguments in to a settings object
+        // Parse the arguments in to a settings object - pretty straightforward method
         public static Settings Parse(string[] arguments)
         {
             if (arguments.Length < 4)
